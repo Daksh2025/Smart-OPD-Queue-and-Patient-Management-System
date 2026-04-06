@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python
+backend/__pycache__/
+backend/venv/
+backend/.env
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Fingerprint data
+backend/fingerprint_data/*.png
+backend/fingerprint_data/*.jpg
+backend/fingerprint_data/*.jpeg
+backend/fingerprint_data/temp/
